@@ -1,6 +1,5 @@
 {
-  "name": "reactignite2022typescript",
-  "private": true,
+  "name": "react-timeline",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

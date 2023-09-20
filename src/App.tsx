@@ -19,9 +19,9 @@ const posts: PostType[] = [
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Acabei de subir mais um projeto no meu portifa. É uma timeline que simula uma rede social. Espero que gostem 🚀",
       },
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "https://github.com/Feelpe/react-timeline" },
     ],
     publishedAt: new Date("2023-02-08 12:00:00"),
   },
@@ -37,9 +37,9 @@ const posts: PostType[] = [
       {
         type: "paragraph",
         content:
-          "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+          "Empolgado para compartilhar meu novo projeto que está redefinindo os limites da inovação e da colaboração! Fique atento para mais detalhes em breve.",
       },
-      { type: "link", content: "jane.design/doctorcare" },
+      { type: "link", content: "linkedin" },
     ],
     publishedAt: new Date("2023-02-07 10:00:00"),
   },
